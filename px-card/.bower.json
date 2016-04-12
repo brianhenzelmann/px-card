@@ -33,5 +33,16 @@
   },
   "resolutions": {
     "polymer": "~v1.2.3"
-  }
+  },
+  "homepage": "https://github.com/PredixDev/px-card",
+  "_release": "0.2.5",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.2.5",
+    "commit": "0887690187f584c2c59d789ed6db4f138bca5990"
+  },
+  "_source": "https://github.com/PredixDev/px-card.git",
+  "_target": "0.2.5",
+  "_originalSource": "px-card",
+  "_direct": true
 }
