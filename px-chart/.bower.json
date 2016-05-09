@@ -1,6 +1,6 @@
 {
   "name": "px-chart",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "main": [
     "px-chart.html"
   ],
@@ -33,11 +33,11 @@
     "web-component-tester": "~3.3.14"
   },
   "homepage": "https://github.com/PredixDev/px-chart",
-  "_release": "1.5.0",
+  "_release": "1.5.1",
   "_resolution": {
     "type": "version",
-    "tag": "v1.5.0",
-    "commit": "14603b3d5bf3c3e706a8a6d37d9f94b6a44dde60"
+    "tag": "v1.5.1",
+    "commit": "f8f881e650e833790c923e0c80852377cd9e992d"
   },
   "_source": "https://github.com/PredixDev/px-chart.git",
   "_target": "~1.5.0",
