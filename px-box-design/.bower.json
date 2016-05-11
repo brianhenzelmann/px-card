@@ -1,6 +1,6 @@
 {
   "name": "px-box-design",
-  "version": "0.3.12",
+  "version": "0.3.13",
   "authors": [
     "General Electric",
     "Harry Roberts <harry@csswizardry.com>"
@@ -33,11 +33,11 @@
     "px-iconography-design": "https://github.com/PredixDev/px-iconography-design.git#~0.2.0",
     "px-starter-kit-design": "https://github.com/PredixDev/px-starter-kit-design.git#~0.4.0"
   },
-  "_release": "0.3.12",
+  "_release": "0.3.13",
   "_resolution": {
     "type": "version",
-    "tag": "v0.3.12",
-    "commit": "c46a08090312c387dcbc21880169055b6689316f"
+    "tag": "v0.3.13",
+    "commit": "3e4699e47b163ee9fcea75f8fcefc805bb264124"
   },
   "_source": "https://github.com/PredixDev/px-box-design.git",
   "_target": "~0.3.8",
