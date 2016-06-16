@@ -1,6 +1,6 @@
 {
   "name": "px-card",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "main": [
     "px-card.html"
   ],
@@ -16,7 +16,7 @@
   ],
   "dependencies": {
     "polymer": "^v1.5.0",
-    "px": "https://github.com/PredixDev/px.git#~1.2.0",
+    "px": "https://github.com/PredixDev/px.git#~1.4.2",
     "es6-promise": "https://github.com/jakearchibald/es6-promise.git#~2.3.0",
     "px-theme": "https://github.com/PredixDev/px-theme.git#~0.8.0"
   },
@@ -31,11 +31,5 @@
     "px-starter-kit-design": "https://github.com/PredixDev/px-starter-kit-design.git#~0.4.5",
     "px-chart": "https://github.com/PredixDev/px-chart.git#~1.6.0",
     "px-defaults-design": "https://github.com/PredixDev/px-defaults-design.git#~0.2.4"
-  },
-  "resolutions": {
-    "px-rangepicker": "~v0.4.0",
-    "px-theme": "~v0.8.0",
-    "polymer": "^1.2.1",
-    "px-card": "^0.4.0"
   }
 }
