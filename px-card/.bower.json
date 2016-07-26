@@ -1,6 +1,6 @@
 {
   "name": "px-card",
-  "version": "0.4.2",
+  "version": "0.4.4",
   "main": [
     "px-card.html"
   ],
@@ -17,7 +17,7 @@
   "dependencies": {
     "polymer": "^v1.5.0",
     "px": "https://github.com/PredixDev/px.git#~1.4.2",
-    "es6-promise": "https://github.com/jakearchibald/es6-promise.git#~2.3.0",
+    "es6-promise": "3.2.2",
     "px-theme": "https://github.com/PredixDev/px-theme.git#~0.8.0"
   },
   "devDependencies": {
@@ -33,11 +33,11 @@
     "px-defaults-design": "https://github.com/PredixDev/px-defaults-design.git#~0.2.4"
   },
   "homepage": "https://github.com/PredixDev/px-card",
-  "_release": "0.4.2",
+  "_release": "0.4.4",
   "_resolution": {
     "type": "version",
-    "tag": "v0.4.2",
-    "commit": "7a4bff01c23fb0b5e1a4db3fee30aed118e3a37b"
+    "tag": "0.4.4",
+    "commit": "4ed0abb09a13a8ab8fba16cca93ec7c3cb6af92b"
   },
   "_source": "https://github.com/PredixDev/px-card.git",
   "_target": "^0.4.0",

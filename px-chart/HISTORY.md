@@ -1,3 +1,15 @@
+v1.6.3
+=================
+* Updated vulcanize index and demo
+
+v1.6.2
+=================
+* Added vulcanize
+
+v1.6.1
+=================
+* Load moment from px-datetime-imports
+
 v1.6.0
 =================
 * Upgrade to Polymer 1.5.0

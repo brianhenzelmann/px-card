@@ -1,6 +1,6 @@
 {
   "name": "px-chart",
-  "version": "1.6.0",
+  "version": "1.6.3",
   "main": [
     "px-chart.html"
   ],
@@ -17,7 +17,7 @@
   "dependencies": {
     "annotations": "https://github.com/blacklabel/annotations.git#~1.2.6",
     "highstock-release": "~2.1.9",
-    "moment": "~2.10.6",
+    "px-datetime-common": "~0.4.0",
     "polymer": "^v1.5.0",
     "px-rangepicker": "https://github.com/PredixDev/px-rangepicker.git#~v0.4.0",
     "px-theme": "https://github.com/PredixDev/px-theme.git#~v0.8.0",
@@ -33,14 +33,17 @@
     "px-forms-design": "https://github.com/PredixDev/px-forms-design.git#~0.3.0",
     "web-component-tester": "~3.3.14"
   },
+  "resolutions": {
+    "moment": "~2.13.0"
+  },
   "homepage": "https://github.com/PredixDev/px-chart",
-  "_release": "1.6.0",
+  "_release": "1.6.3",
   "_resolution": {
     "type": "version",
-    "tag": "v1.6.0",
-    "commit": "3408ff29fcbda4896a8349c3430e2b05206be45f"
+    "tag": "v1.6.3",
+    "commit": "c27ce721e64ce4b2ccc7c862d38a215dac5602e5"
   },
   "_source": "https://github.com/PredixDev/px-chart.git",
   "_target": "~1.6.0",
-  "_originalSource": "https://github.com/PredixDev/px-chart.git"
+  "_originalSource": "px-chart"
 }
