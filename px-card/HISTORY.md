@@ -1,14 +1,18 @@
+0.4.11
+==================
+* moved px-polymer-font-awesome out of devdeps and into deps in bower.
+
 0.4.10
 ==================
 * added overflow to demoContainer and removed flex__wrap from mega-demo
 
 0.4.9
 ==================
-* updated mega demo styles and bower px-demo-snippet to ^
+* travis update config
 
 0.4.8
 ==================
-* removed demo from vulcanize
+* added mega demo, updated component to accept dynamic icon changes, cleaned up code a bit.
 
 0.4.7
 ==================
