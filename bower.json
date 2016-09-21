@@ -1,6 +1,6 @@
 {
   "name": "px-card",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "main": [
     "px-card.html"
   ],
@@ -46,13 +46,13 @@
     "px-toggle-design": "^0.2.12"
   },
   "resolutions": {
+    "iron-ajax": "^1.4.3",
+    "px-typography-design": "^1.1.0",
     "moment": ">= 2.6.0",
-    "iron-ajax": "^1.0.0",
-    "px-theme": "^1.1.2",
-    "px-dropdown": "^0.12.1",
-    "px": "~1.4.3",
-    "px-typography-design": "~1.1.1",
+    "px-theme": "~1.1.2",
     "px-tooltip": "~0.8.0",
-    "es6-promise": "~3.3.1"
+    "px-dropdown": "^0.12.1",
+    "es6-promise": "~3.3.1",
+    "px": "~1.4.3"
   }
 }

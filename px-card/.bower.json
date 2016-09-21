@@ -1,6 +1,6 @@
 {
   "name": "px-card",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "main": [
     "px-card.html"
   ],
@@ -46,11 +46,11 @@
     "px-toggle-design": "^0.2.12"
   },
   "homepage": "https://github.com/PredixDev/px-card",
-  "_release": "0.5.2",
+  "_release": "0.5.3",
   "_resolution": {
     "type": "version",
-    "tag": "v0.5.2",
-    "commit": "62d1d05bd78e1313a39408e079a52ff3f447a1ce"
+    "tag": "v0.5.3",
+    "commit": "98704ef1fc3335ca92b3376f8119a732f18e7852"
   },
   "_source": "https://github.com/PredixDev/px-card.git",
   "_target": "^0.5.1",
