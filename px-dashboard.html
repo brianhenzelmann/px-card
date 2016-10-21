@@ -86,7 +86,10 @@ selectedDeck: {
                 e.stopPropagation();
                 //since deck is loaded dynamically, context is already ready
                 e.target.context = self.context;
-                e.target.init();
+                self.contextChanged(self.context);
+                if(e.target.init){
+                    e.target.init();
+                }
             });
         },
         fetchAndRenderDeck: function(url){
